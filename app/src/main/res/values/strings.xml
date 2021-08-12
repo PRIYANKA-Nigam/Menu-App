@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="TextView">Enter Text on EditText And Click the Highlight button to highlight the textview specific text</string>
+</resources>
